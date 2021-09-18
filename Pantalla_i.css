@@ -1,0 +1,48 @@
+/*DOCUMENTO CSS3*/
+@charset "utf-8";
+
+#fondo{
+	min-height: 98vh;
+	background-image: url(../Imagenes/PDI.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+ul{
+	list-style: none;
+}
+
+li{
+	display: inline-block;
+}
+
+#instrucciones{
+	position: relative;
+	top: 215px;
+	left: 150px;
+}
+
+#boton_inst{
+	width: 310px;
+}
+
+#jugar{
+	position: relative;
+	top: 490px;
+	left: 160px;
+}
+
+#boton_jgr{
+	width: 400px;
+}
+
+#creditos{
+	position: relative;
+	top: 195px;
+	left: 235px;
+}
+
+#boton_crdts{
+	width: 270px;
+}

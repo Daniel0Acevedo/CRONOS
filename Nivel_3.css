@@ -1,0 +1,32 @@
+h1{
+	color: goldenrod;
+	font-family:Goudy Old;
+}
+
+#fnd{
+    min-height: 96vh;
+	background-image: url(../Imagenes/RYS.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+h2{
+	color: rgba(58, 163, 189, 0.925);
+	font-family:Goudy Old;
+}
+
+#respuesta_1{
+	width: 400px;
+	height: 400px;
+}
+
+#respuesta_2{
+	width: 137px;
+	height: 400px;
+}
+
+#respuesta_3{
+	width: 500px;
+	height: 400px;
+}
