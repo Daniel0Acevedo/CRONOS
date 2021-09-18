@@ -1,0 +1,33 @@
+*{font-family:Goudy Old;}
+
+#listas{
+    text-align: left;
+    display:inline-block;
+}
+
+#fondo{min-height: 100vh;
+    background-image: url(../img/rayos.jpg);
+    background-repeat: no-repeat;
+    height: 2100px;
+    background-attachment: fixed;
+    background-size: cover;}
+
+#DDA_img{
+    width: 250px;
+    height: 300px;}
+
+#SPP_img{
+    width: 400px;
+    height: 250px;}
+
+#LFL_img{
+    width: 400px;
+    height: 230px;}
+
+#TSC_img{
+    width: 230px;
+    height: 300px;}
+
+h1{color: #D4AF37;}
+h2{color: #D4AF37;}
+h3{color: #D4AF37;}

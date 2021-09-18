@@ -1,0 +1,27 @@
+#links{
+    text-align: left;
+    display:inline-block;
+}
+
+#fondo{min-height: 100vh;
+    background-image: url(../img/rayos.jpg);
+    background-repeat: no-repeat;
+    height: 4100px;
+    background-attachment: fixed;
+    background-size: cover;}
+
+#links_2{
+    text-align: left;
+    display:inline-block;
+}
+
+p{
+color:  #000;
+trancition-property: color;
+transition-duration: 1s;
+}
+
+p:hover {
+    color: #faf0e6;
+}
+h2{color: #D4AF37;}

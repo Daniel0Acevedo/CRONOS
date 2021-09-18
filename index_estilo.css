@@ -1,0 +1,40 @@
+#fondo{
+	min-height: 100vh;
+	background-image: url(../img/rayos.jpg);
+	background-repeat: no-repeat;
+	height: 630px;
+	background-attachment: fixed;
+	background-size: cover;
+}
+*{font-family:Goudy Old;}
+
+.titulo{color:	#EABE3F}
+
+#defin_problema{font-size: 17px}
+
+#imagen{
+	width: 300px;
+	height: 300px;
+	border-radius: 400px;
+	animation-name: movete;
+	animation-duration: 2s;
+	position: relative;
+	animation-fill-mode: forwards;
+	animation-timing-function: cubic-bezier(0.04, 1.08, 0.76, 1.11);
+	}
+
+@keyframes movete{
+	from{left: -110%}
+	to{left: 40%;}
+}
+li{color: #800080;}
+
+p{font-size: 25px;
+color: 	#000;
+trancition-property: color;
+transition-duration: 1s;
+}
+
+p:hover {
+	color: #faf0e6;
+}

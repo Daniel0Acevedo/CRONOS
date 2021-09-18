@@ -1,0 +1,21 @@
+#fondo{
+	min-height: 100vh;
+	background-image: url(../img/rayos.jpg);
+	background-repeat: no-repeat;
+	height: 630px;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+*{font-family:Goudy Old;}
+ 
+ .titulos {color: #EABE3F;}
+
+ #listas{
+    text-align: left;
+    display:inline-block;
+}
+#listas_2{
+    text-align: left;
+    display:inline-block;
+}
